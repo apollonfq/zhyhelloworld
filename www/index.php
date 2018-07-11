@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Hello world At ZHY by apollonfq!</title>
+	<title>Hello world At ZHY by apollonfq on Wensday!</title>
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 	<style>
 	body {
